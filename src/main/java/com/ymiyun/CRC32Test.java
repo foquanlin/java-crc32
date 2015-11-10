@@ -9,7 +9,7 @@ public class CRC32Test {
 
 	public static void main(String[] args) {
 		try {
-			System.out.println(crc32("d:/test-4.jpg"));
+			System.out.println(crc32("d:/ffmpegsumo.dll"));
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		}
